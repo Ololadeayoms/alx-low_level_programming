@@ -5,3 +5,4 @@ a script that compile a Cfile and create an executable name cisfun
 a C program that prints exactly
 read puts
 print
+print function
