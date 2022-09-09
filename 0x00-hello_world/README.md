@@ -6,3 +6,4 @@ a C program that prints exactly
 read puts
 print
 print function
+puts
