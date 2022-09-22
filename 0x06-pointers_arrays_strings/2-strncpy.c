@@ -6,7 +6,7 @@
  * @dest: buffer storing the string copy
  * @src: the source string
  * @n: maximum number of byte copied
- * Returns: returns null
+ * Returns: returns success
  */
 
 char *_strncpy(char *dest, char *src, int n)
